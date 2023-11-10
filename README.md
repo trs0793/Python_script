@@ -1,4 +1,20 @@
-# Python_script
+# Python_script (English)
+### Goal and Task Statement:
+
+**Implement a function that will automatically load information from an additional .csv file into the original dataframe. Based on additional parameters, recalculate metrics, and create a function that will rebuild graphs using these obtained metrics.**
+
+### Tools Used in Project Execution:
+
+- Pandas, Numpy, Seaborn, Matplotlib libraries
+- Functions: `def`, `try:`, `except`
+- DataFrame operations: `append`, `merge`, `concat`
+- Matplotlib functions: `plt.subplot`, `plt.hist`
+
+### Results:
+
+Implemented a function that automatically loads information from an additional .csv file into the original dataframe. Based on additional parameters, it recalculates metrics and rebuilds graphs using these obtained metrics. These functions can be utilized when new data emerges for metric computation and graph construction.
+
+# Python_script (Rusian)
 
 ### Цель и условие задачи:
 
